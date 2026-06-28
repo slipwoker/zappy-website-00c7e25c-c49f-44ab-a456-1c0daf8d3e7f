@@ -1,0 +1,107 @@
+# The movie site — Generative Engine Optimization Map
+
+> An online store focused on selling movies. The business revolves around film retail, potentially offering a wide catalog of movies for purchase or download. The specific niche, format (physical DVDs, digital downloads, streaming), and target audience are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://the-movie-site-00c7e25c.zappy5.app
+חנות הסרטים המובילה בישראל מזמינה אתכם לצלול לקטלוג עצום של סרטים מכל הז׳אנרים. מצאו קלאסיקות, בכורות וסרטים בחינם במקום אחד והתחילו לצפות עוד היום.
+
+### פורמטים וניסיון
+https://the-movie-site-00c7e25c.zappy5.app/formats-experience
+בין אם אתם מעדיפים איכות פיזית, הורדה דיגיטלית או סטרימינג מיידי – אצלנו תגלו את כל הפורמטים ששדרגו את חוויית הסרט שלכם. התאימו את השיטה המועדפת עליכם עכשיו.
+
+### אודות
+https://the-movie-site-00c7e25c.zappy5.app/about
+אנחנו לא רק מוכרים סרטים – אנחנו חיים קולנוע. גלו את הסיפור של האנשים שהפכו אהבה לסרטים לחנות שמביאה לכם את מיטב הקולנוע מכל הזמנים. הצטרפו למסע.
+
+### צור קשר
+https://the-movie-site-00c7e25c.zappy5.app/contact
+יש שאלה על סרט, צורך בהמלצה או בעיה טכנית? אנחנו כאן בשבילכם. פנו אלינו עוד היום וקבלו מענה אישי ומהיר שיהפוך כל צפייה לחוויה בלתי נשכחת.
+
+### Products
+https://the-movie-site-00c7e25c.zappy5.app/products
+המוצרים שלנו - The movie site
+
+### Cart
+https://the-movie-site-00c7e25c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://the-movie-site-00c7e25c.zappy5.app/checkout
+תשלום
+
+### Login
+https://the-movie-site-00c7e25c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://the-movie-site-00c7e25c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://the-movie-site-00c7e25c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://the-movie-site-00c7e25c.zappy5.app/product/:slug
+פרטי המוצר - The movie site
+
+### Category
+https://the-movie-site-00c7e25c.zappy5.app/category/:slug
+מוצרים - The movie site
+
+### תודה שפניתם אלינו
+https://the-movie-site-00c7e25c.zappy5.app/thank-you
+The movie site - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://the-movie-site-00c7e25c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://the-movie-site-00c7e25c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://the-movie-site-00c7e25c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About The movie site
+An online store focused on selling movies. The business revolves around film retail, potentially offering a wide catalog of movies for purchase or download. The specific niche, format (physical DVDs, digital downloads, streaming), and target audience are yet to be defined.
+
+## Services/Products
+- מכירת סרטים
+
+## Target Audience
+- חובבי קולנוע ואספנים
+- מחפשי כותרים חדשים
+- משפחות בחיפוש אחר בידור
+
+## Industry
+E-commerce / Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://the-movie-site-00c7e25c.zappy5.app/sitemap.xml
+- Robots: https://the-movie-site-00c7e25c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://the-movie-site-00c7e25c.zappy5.app/llms-full.txt
+- Products (JSON): https://the-movie-site-00c7e25c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://the-movie-site-00c7e25c.zappy5.app/product-feed.xml
